@@ -1,0 +1,19 @@
+Dan Bowen's Text Adventure commands help.  The unique commands for my games may be spoilers for puzzles!   Rev 2020-12-07
+
+Common commands:
+   North     South     East      West      Up      Down
+   Enter     Look      Examine   Search    Eat     Drink
+   Open      Close     Wait      Move      Inventory
+   Get       Drop      Tell      Turn	   
+   
+   The most common commands can usually be shortened to single letters, for example N, S, E, W for directional commands, I for Inventory, X for Examine etc.  Wait is abbreviated as Z.
+
+   
+   Out of game commands:
+      Save      Restore    Undo    Quit
+
+
+Unique commands in my games:
+Insert  Follow 
+   Set       Spray     Connect   Push      Listen  type
+   Put       Jump 
